@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalpani Anuradha Mirihana</h1>
 <h3 align="center">PhD Student in Computational Chemistry</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpz94&label=Profile%20views&color=0e75b6&style=flat" alt="kalpz94" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalpz94&label=Profile%20views&color=0e75b6&style=flat" alt="kalpz94" /> </p>
+
+---
 
 - 🔭 I’m currently working on **Molecular Dynamic Simulation on Lipid Corona Formation**
 
