@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kalpani.anuradha@outlook.com**
 
-- ⚡ Fun fact **KD**
+- ⚡ Fun fact **KAL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
