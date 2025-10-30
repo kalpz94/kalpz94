@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kalpani Anuradha Mirihana</h1>
-<h3 align="center">PhD Student in Computational Chemistry</h3>
+# Kalpani Anuradha Mirihana
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalpz94&label=Profile%20views&color=0e75b6&style=flat" alt="kalpz94" /> </p>
+PhD Student in Computational Chemistry in Australia
 
----
+
+## Resources I make available on GitHub
+
+- Molecular Dynamics inputs for GROMACS
+- TCL Scripts for analysing molecular dynamics simulation trajectories using VMD
+
+
+
+
+### More about me
 
 - 🔭 I’m currently working on **Molecular Dynamic Simulation on Lipid Corona Formation**
 
